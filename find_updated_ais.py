@@ -1,3 +1,5 @@
+# All code in this file written by Henry Chu (henrymchu)
+
 # Standard Python imports
 import collections
 import datetime
